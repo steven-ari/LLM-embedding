@@ -1,4 +1,4 @@
-## Embedding of Documents using an LLM Model
+## Embedding of Documents using an LLM Model for Document Classifications
 
 Model: https://github.com/clovaai/donut
 
